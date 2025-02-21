@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Emmanuel Carvajal]  
+# 👋 ¡Hola! Soy Emmanuel Carvajal  
 📍 **QA Engineer con background en Negocios** | Apasionado por la **calidad del software y la optimización de procesos**  
 
 Bienvenid@ a mi perfil de GitHub. Mi trayectoria comenzó en el mundo de los **negocios y la estrategia comercial**, donde adquirí experiencia en **negociación, análisis de mercado y gestión de proyectos**. Con el tiempo, mi interés por la **optimización de procesos y la tecnología** me llevó al mundo del **Quality Assurance (QA)**.  
