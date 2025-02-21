@@ -1,3 +1,5 @@
+![Banner](https://github.com/emm26020/emm26020/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 # 👋 ¡Hola! Soy Emmanuel Carvajal  
 📍 **QA Engineer con background en Negocios** | Apasionado por la **calidad del software y la optimización de procesos**  
 
